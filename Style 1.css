@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;  position: fixed;
+  }
+  a{
+     text-decoration: none;margin-left: 40px;
+  }
+  body{background-image: url(https://www.shutterstock.com/image-vector/wall-cement-display-roomvector-3d-260nw-2252914521.jpg);background-repeat: no-repeat;background-size: cover;}
+ li :hover{font-size: 20px;}
+ p{color: white;}
+ li{float: left;}
+ h3{color: chartreuse;}
